@@ -1,9 +1,10 @@
 // required
-npm i enzyme jest-cli@20.0.4 --save-dev
-npm i react-bootstrap --save
-npm i react react-dom --save
-npm i enzyme
-npm i enzyme-adapter-react-16
+
+- npm i enzyme jest-cli@20.0.4 --save-dev
+- npm i react-bootstrap --save
+- npm i react react-dom --save
+- npm i enzyme
+- npm i enzyme-adapter-react-16
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
